@@ -1,0 +1,142 @@
+The
+UiPath
+Platform
+
+The primary difference between a fully automated enterprise and a traditional enterprise is their approaches to automation.
+
+A fully automated enterprise thinks “automation first” and applies automation where it makes the most sense and can have
+the greatest impact. It also understands the people requirements and nurtures and grows the talent needed to operate the
+the automations.
+
+Select each logo to find out more about each product.
+
+Discover
+What it does? Example
+Discover automation Captures automation ideas from those who know the Jane from the marketing team, needs an automation
+opportunities powered work best: the employee themselves. Brings together all that updates the assets on a public platform. She
+by AI and your people the right people in the organization, including IT and submits the idea and if approved, the CoE will pick
+Business Partners to drive automation opportunities. it up and develop the automation.
+Users
+CoE Leadership, the C-Suite, Business Users
+
+What it does? Example
+Looks at how speciﬁc processes are carried out by Brian, from the Finance department, uses Task
+task experts - the workers who do the tasks the most. Capture to document the speciﬁcs of an SAP task
+When started, it registers the process details as the to be automated by the RPA team.
+expert performs them.
+
+Then, it exports screenshots, step by step details, and
+detailed annotation in a PDD or XAML to be used
+further in the Build phase.
+Users
+CoE Leadership, the C-Suite, Business Users, RPA Developers,
+Business Analysts
+
+What it does? Example
+Uses the digital footprints left behind in your systems Analyzing an invoice process through Task Mining
+and applications to create a digital representation of to ﬁnd improvement opportunities throughout the
+end-to-end business processes. Discovers automa- process. Once identiﬁed, a process step is send to
+tion-ready pain points, deviations, and inefﬁciencies the automation team to be analyzed for automation
+across processes. potential.
+Users
+Business Process Owners (eg. Head of Procurement, Contact Center
+Owner, Head of Logistics), Automation/RPA Leads, IT C-levelWhat it does? Example
+Uses Al to automatically capture and analyze the Recording Excel and SAP dektop activities of a
+day-to-day tasks performed by the employees, team for one week, and them deploying an ML
+construct the data-driven process maps, and suggest model to analyze the recorded data and identify the
+automation ideas with the highest ROI potential. repetitive tasks performed across the team.
+Users
+Business Users, RPA CoE
+
+Build
+What it does? Example
+Build automations It allows RPA developers to create workﬂows, with Developing an automation that tracks licenses
+quickly, from the simple API integrations to an ever-growing list of assigned to a team and allocates or removes them
+to the advanced applications, technologies, and platforms. More based on usage.
+complex automations are easily handled with basic
+coding knowledge.
+
+Users
+RPA Developer, Business Decision Maker, Business User
+
+What it does?
+Enables business users to rapidly automate without
+the need for developer resources or coding, making
+automation accessible to all.
+Example
+Downloading attachements from speciﬁc emails
+and then compare the data across the downloaded
+ﬁles.
+
+Users
+Business Users, Subject Matter Experts
+
+What it does? Example
+Empowers RPA developers with all of the beneﬁts of Developing a Workday automation for onboarding
+Studio plus advanced scaling capabilities to employees, and then building Test Cases for
+continuously automate testing of RPA workﬂows and various functions around the onboarding process in
+the applications they rely on, including web, mobile, Workday.
+SAP, and virtualized desktops.
+
+Users
+RPA Teams, Test Teams, Transformation Leaders
+
+What it does? Example
+Uses AI-enhanced skills to extract data and interpret Extracting data from employees’ ID cards and
+documents. It can process different document types Passports.
+and formats, including tables, handwriting, signatures,
+and checkboxes. Uses human validation to conﬁrm
+extracted data if needed, handle exceptions, and train
+models to improve their accuracy over time.
+Users
+RPA Developers, Business Process Owners, CoE members,
+CIOsWhat it does? Example
+Helps you automate processes that involve multiple Automating mortgage application processes using
+applications and/or lines of business using deep the UiPath integration with Adobe Sign. In this auto-
+integrations with best-in-breed technologies. Leverages mated process, clients can sign documents on any
+API integrations with leading enterprise applications, device –including mobile.
+built and supported by UiPath and backed by partners.
+
+Users
+RPA Developers, Business Users, CoE members
+
+What it does? Example
+Enables consumers to discover and use trusted, Downloading a Studio project developed to delete
+enterprise-grade RPA content. Gives vendors a easy history, cache and cookies from Internet Explorer,
+way to distribute RPA solutions to thousands of Chrome and Firefox and integrating it into an
+customers. automation project.
+Users
+RPA Developers
+
+Manage
+What it does? Example
+Manage, deploy, and
+Deploys, manages and optimizes your Robots with When a certain number of invoices to be processed
+optimize automation at enterprise-scale integrations and compliance. are added to queue, the robot is triggered and
+enterprise scale starts processing them.
+
+Users
+RPA Developer, IT Admin, CoE Admin
+
+What it does? Example
+Governs and monitors the quality of the automations. Connecting ServiceNow with UiPath Test Manager
+It facilitates test planning and execution, and automating ServiceNow Test Cases with UiPath
+requirements, and defect traceability, includes Studio Pro.
+comprehensive test reporting, and seamlessly adapts
+to environments with out-of-the-box integrations.
+
+Users
+RPA Teams, Test Teams, Transformation Leaders
+
+What it does? Example
+Facilitates the automation of more complex or Creating an ML model to classify product feature
+cognitive processes with RPA robots learning Al skills. requests, training Out-of-the-box ML model to ex-
+Enables you to deploy your own Al skills or pre-trained tract data from invoices .
+Al skills developed by UiPath or UiPath Al technology
+partners.
+
+You can also monitor and manage your AI skills, train
+an improve them usinghuman validated data.
+
+Users
+RPA CoE, RPA Developers, and Business Users
